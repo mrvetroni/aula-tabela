@@ -6,3 +6,9 @@ Primeiro Desafio Concluído.
 ## Tecnologias Utilizadas
 - HTML
 - CSS
+
+## Como Utilizar
+Clone do projeto
+```
+git clone <url>
+```
