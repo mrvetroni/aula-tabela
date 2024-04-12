@@ -1,9 +1,10 @@
 
-*{ margin: 0; box-sizing: border-box;}
+* { margin: 0; box-sizing: border-box;}
 .title {margin: 10px 0 10px 0;}
 
+
 .td-row,
-.td-row td{
+.td-row td {
     border: 0px solid white;
     padding: 8px;
     color: white;
